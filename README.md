@@ -38,7 +38,7 @@ To address this problem we will create a ranking algorithm to help predict wheth
 The dataset can be found in this project folder under the name `bank-marketing-campaign-data.csv`, and you can load it into the code directly from this link:
 
 ```text
-https://raw.githubusercontent.com/4GeeksAcademy/logistic-regression-project-tutorial/main/bank-marketing-campaign-data.csv
+https://storage.googleapis.com/breathecode/project-files/bank-marketing-campaign-data.csv
 ```
 
 Or download it, and add it by hand in your repository. In this dataset, you will find the following variables:
