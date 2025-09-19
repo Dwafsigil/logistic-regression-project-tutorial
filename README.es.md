@@ -38,7 +38,7 @@ Para abordar este problema crearemos un algoritmo de clasificación que ayude a 
 El conjunto de datos se puede encontrar en esta carpeta de proyecto bajo el nombre `bank-marketing-campaign-data.csv`, y puedes cargarlo en el código directamente desde el siguiente enlace:
 
 ```text
-https://raw.githubusercontent.com/4GeeksAcademy/logistic-regression-project-tutorial/main/bank-marketing-campaign-data.csv
+https://storage.googleapis.com/breathecode/project-files/bank-marketing-campaign-data.csv
 ```
 
 O descargarlo y añadirlo a mano en tu repositorio. En este conjunto de datos encontrarás las siguientes variables:
